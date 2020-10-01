@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "586568775926",
+    "firebase_url": "https://halobeba-f3e81.firebaseio.com",
+    "project_id": "halobeba-f3e81",
+    "storage_bucket": "halobeba-f3e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586568775926:android:2ed17c83452e77f23cd4d7",
+        "android_client_info": {
+          "package_name": "org.unicef.ecar.parentbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586568775926-vlmv0b95m5mpo3jri4abk62bbp12ri2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.unicef.ecar.parentbuddy",
+            "certificate_hash": "5855440843aad14610ad7650345ce6a65e42577c"
+          }
+        },
+        {
+          "client_id": "586568775926-5j99htudod071m3l2fnndn45qq9p2pat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.unicef.ecar.parentbuddy",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "586568775926-14mfvnd527c0vept39vsa1f2g6rtuaq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMEsV7xsW9bJZ6z6q1b_VdeQkstVfX5H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586568775926-14mfvnd527c0vept39vsa1f2g6rtuaq8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "586568775926-cf07165rfn3uvu9h5n119el61qab76gv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halobeba"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
